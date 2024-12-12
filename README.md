@@ -15,7 +15,7 @@ The rules I obey by, in brief, are:
 
 ### Progress
 
-_2024-12-11: I'm currently doing 2024 "live", but when I have spare time and
+_2024-12-12: I'm currently doing 2024 "live", but when I have spare time and
 inclination, working through 2021._
 
 **Key:**  
@@ -27,21 +27,51 @@ inclination, working through 2021._
 
 Squares go from Day 1 on the left to Day 25 on the right.
 
-| GitHub Repo | AoC Site | Progress |
-|----|----|----|
-| [2024](https://github.com/PaulNGilson/AoC_2024) |  | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
-| [2023](https://github.com/PaulNGilson/AoC_2023) |  | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 |
-| [2022](https://github.com/PaulNGilson/AoC_2022) |  | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 |
-| 2021 |  | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ |
-| 2020 |  | 🟨🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |
-| 2019 |  | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |
-| 2018 |  | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |
-| 2017 |  | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |
-| 2016 |  | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |
-| 2015 |  | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |
+| GitHub Repo | AoC Site | Progress | Stars |
+|----|----|----|----|
+| [My 2024](https://github.com/PaulNGilson/AoC_2024) | [AoC 2024](https://adventofcode.com/2024) |🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | 24 |
+| [My 2023](https://github.com/PaulNGilson/AoC_2023) | [AoC 2023](https://adventofcode.com/2023) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
+| [My 2022](https://github.com/PaulNGilson/AoC_2022) | [AoC 2022](https://adventofcode.com/2022) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
+| [My 2021](https://github.com/PaulNGilson/AoC_2021) | [AoC 2021](https://adventofcode.com/2021) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ | 42 |
+| My 2020 | [AoC 2020](https://adventofcode.com/2020) | 🟨🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ | 4 |
+| My 2019 | [AoC 2019](https://adventofcode.com/2019) | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |  |
+| My 2018 | [AoC 2018](https://adventofcode.com/2018) | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |  |
+| My 2017 | [AoC 2017](https://adventofcode.com/2017) | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |  |
+| My 2016 | [AoC 2016](https://adventofcode.com/2016) | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |  |
+| My 2015 | [AoC 2015](https://adventofcode.com/2015) | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |  |
 
 ### Notes
 
 I occasionally do some earlier puzzles from old years, as part of my coaching
 work - these are more for demos than me actually "getting into" a year,
 properly.
+
+### Noteworthy Days
+
+I'll avoid spoilers in this section, but wanted - for my own notes - to pick out
+particular highlights (and lowlights!) from various challenges.
+
+#### 2024
+
+* Day 12 - part 2's solution of pairs of pairs felt elegant and seems to be an
+  unusual route to solving this one.
+
+#### 2023
+
+* Day 12 - part 2 gave me actual sleep problems, as I just couldn't think up an
+  approach that ended up being quick enough - everything was O(years) to
+  complete. Must've taken me >10 days and I think I built 8-12 different
+  solutions. Fine line between perseverance and bloody-mindedness in refusing to
+  go looking for any help. Still no idea what a "good" approach is, but I
+  haven't felt able to return to it after finally solving it.
+
+#### 2021
+
+* Day 21 - part 2, I just read through and then didn't have time to do for a few
+  days, but settled on what I thought was a really clean approach, and was
+  amazed to not only code it as desired without errors but it gave the right
+  answer to the test data first time. Noteworthy, because I had lots of ideas
+  but didn't half-implement things - that time to mull it over really worked for
+  me, on something I initially felt would be very difficult. I usually write
+  multiple different solutions as I think them up, and find they don't work
+  efficiently enough.
