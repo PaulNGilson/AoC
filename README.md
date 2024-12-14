@@ -15,7 +15,7 @@ The rules I obey by, in brief, are:
 
 ### Progress
 
-_2024-12-12: I'm currently doing 2024 "live", but when I have spare time and
+_2024-12-14: I'm currently doing 2024 "live", but when I have spare time and
 inclination, working through 2021._
 
 **Key:**  
@@ -29,7 +29,7 @@ Squares go from Day 1 on the left to Day 25 on the right.
 
 | GitHub Repo | AoC Site | Progress | Stars |
 |----|----|----|----|
-| [My 2024](https://github.com/PaulNGilson/AoC_2024) | [AoC 2024](https://adventofcode.com/2024) |🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | 24 |
+| [My 2024](https://github.com/PaulNGilson/AoC_2024) | [AoC 2024](https://adventofcode.com/2024) |🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | 28 |
 | [My 2023](https://github.com/PaulNGilson/AoC_2023) | [AoC 2023](https://adventofcode.com/2023) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
 | [My 2022](https://github.com/PaulNGilson/AoC_2022) | [AoC 2022](https://adventofcode.com/2022) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
 | [My 2021](https://github.com/PaulNGilson/AoC_2021) | [AoC 2021](https://adventofcode.com/2021) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ | 42 |
