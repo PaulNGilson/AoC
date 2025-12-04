@@ -30,7 +30,7 @@ as it only contains 12 days of puzzles.
 
 | GitHub Repo | AoC Site | Progress | Stars |
 |----|----|----|----|
-| [My 2025](https://github.com/PaulNGilson/AoC_2025) | [AoC 2025](https://adventofcode.com/2025) | 🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦 | 2 |
+| [My 2025](https://github.com/PaulNGilson/AoC_2025) | [AoC 2025](https://adventofcode.com/2025) | 🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦 | 8 |
 | [My 2024](https://github.com/PaulNGilson/AoC_2024) | [AoC 2024](https://adventofcode.com/2024) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
 | [My 2023](https://github.com/PaulNGilson/AoC_2023) | [AoC 2023](https://adventofcode.com/2023) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
 | [My 2022](https://github.com/PaulNGilson/AoC_2022) | [AoC 2022](https://adventofcode.com/2022) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
