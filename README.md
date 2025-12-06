@@ -15,7 +15,7 @@ The rules I obey by, in brief, are:
 
 ### Progress
 
-_2025-12-06: I've working through 2025 "live", but when I have spare time
+_2025-12-06: I'm working through 2025 "live", but when I have spare time
 and inclination, I'm working through 2021._
 
 **Key:**  
