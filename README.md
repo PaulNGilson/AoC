@@ -15,7 +15,7 @@ The rules I obey by, in brief, are:
 
 ### Progress
 
-_2025-12-06: I'm working through 2025 "live", but when I have spare time
+_2025-12-07: I'm working through 2025 "live", but when I have spare time
 and inclination, I'm working through 2021._
 
 **Key:**  
@@ -30,7 +30,7 @@ as it only contains 12 days of puzzles.
 
 | GitHub Repo | AoC Site | Progress | Stars |
 |----|----|----|----|
-| [My 2025](https://github.com/PaulNGilson/AoC_2025) | [AoC 2025](https://adventofcode.com/2025) | 🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦 | 12 |
+| [My 2025](https://github.com/PaulNGilson/AoC_2025) | [AoC 2025](https://adventofcode.com/2025) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">24</text> |
 | [My 2024](https://github.com/PaulNGilson/AoC_2024) | [AoC 2024](https://adventofcode.com/2024) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
 | [My 2023](https://github.com/PaulNGilson/AoC_2023) | [AoC 2023](https://adventofcode.com/2023) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
 | [My 2022](https://github.com/PaulNGilson/AoC_2022) | [AoC 2022](https://adventofcode.com/2022) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 | <text style="color:#FFBB00">50</text> |
