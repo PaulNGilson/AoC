@@ -52,6 +52,16 @@ properly.
 I'll avoid spoilers in this section, but wanted - for my own notes - to pick out
 particular highlights (and lowlights!) from various challenges.
 
+#### 2025
+
+* Day 10 - after trying the (expected not to be time-feasible) brute-force
+  approach, I knew what I wanted to do in terms of using a library from a
+  previous year, but needed time and space to do just that. Learnt a lot from
+  the experience, having a leisurely Sunday brunchtime working my way through
+  the library documentation, to a solution that wasn't _too_ slow. Happy with
+  the experience, even if the time wasn't great, especially as I don't know how
+  else I'd do this one.
+
 #### 2024
 
 * Day 12 - part 2's solution of pairs of pairs felt elegant and seems to be an
